@@ -1,0 +1,72 @@
+
+
+body{
+    background-color: rgb(54, 43, 75);
+}
+
+
+
+.logo {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+    
+}
+
+.title {
+    font-weight: 900;
+    font-size: 28px;
+}
+
+
+
+.imgdoshop {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   margin-top: 40px;
+}
+
+.prices {
+    color: antiquewhite;
+    border-radius: 4px;
+    border: solid rgb(188, 149, 149);
+    text-decoration: none;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.rodape {
+    margin-left: 
+    21em;
+}
+
+.footer__section {
+    background-color: rgb(115, 110, 103);
+
+}
+
+.PARAGRAPH{
+    text-align: 
+    center;
+}
+
+.test {
+    display: block;
+    margin-left: auto;
+   padding: 0.5em;
+}
+
+.paragraph {
+    color: rgb(178, 155, 126);
+    font-weight: 700;
+    text-align: center;
+}
